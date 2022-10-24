@@ -5,6 +5,6 @@
 - [x] Dispatcher Servlet
 - [ ] Application 구동 방식
 - [x] Spring DI/IoC
-- [ ] Filter
+- [x] Filter
 - [x] @Transactional 내부 동작 원리
 - [x] AOP/Spring AOP
